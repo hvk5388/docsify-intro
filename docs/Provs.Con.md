@@ -1,15 +1,18 @@
-Pro vs. Con
-Overall I would recommend 11ty, but there are some things to keep in mind before you jump right in.
+# Pro vs. Con
+Overall I would recommend docsify, but there are some things to keep in mind before you jump right in.
 
-Pro
-Easy use after setup
-Mostly beginner friedly
-Lots of useful online information
-Also lots of plugins on open source
-Easy to update
-Con
-Setup can be difficult
-HTML/Markdown knowledge required
-Also requires command line knowledge
-Requires outside hosting
-Doesn't allow for a login
+## Pro
+ - Easy setup
+ - Mostly beginner friedly
+ - Lots of useful online information
+ - Also lots of plugins on open source
+ - Easy to update
+
+## Con 
+ - HTML/Markdown knowledge helpful
+ - Also requires command line knowledge
+ - Requires outside hosting
+ - Doesn't allow for a login
+ - Bad at dynamic data
+
+The cons were so hard to come up with.

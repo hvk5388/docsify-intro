@@ -1,11 +1,9 @@
-Introduction
-Hey coders! Welcome back to Kern Designs, Hannah here, and as you already know because you found your way to the site, we are exploring 11ty today.
+# Introduction
+## What is it?
+To begin [docsify](https://docsify.js.org/#/) is a static site generator to make building a website easier. This means that it loads your markdown files and displays them on a site. It doesnt include the front-end library of posting. Instead a user has to utilize a markdown and HTML, which it will then display. Docsify is very simple and beginner friendly, with almost no background knowlwedge needed. It claims to be magical and honestly, I believe them.
 
-What is it?
-To begin 11ty is a static site generator to make building a website easier. This means that it combines templates and data to create an HTML site. It doesnt include the front-end library of posting. Instead an 11ty user has to utilize a markdown and HTML, which it will then display. It claims to be beginner friendly, but like any other tool there is a learning curve. At least for me, it required a lot of googling and troubleshooting.
+## Getting stated in Docsify
+To get started, there are a lot of very helpful articles and how to videos to create a site with docsify, but the first place to look is with docsify themselves. They have created their own [site](https://docsify.js.org/#/quickstart) actually using docsify, which definetly makes me feel good. Any company that actively uses their own product definetly believes in it. The steps are very easy and link to more in-depth help for true beginners that may require a little more background. 
 
-Getting stated in 11ty
-To get started, there are a lot of very helpful articles and how to videos to create a site with 11ty. You can find a culmination of them on the 11ty site which is how I found one by Filament Group blog. It gives step by step instructions on how to install, run, and create a site.
-
-Hosting a site
-Because 11ty doesn't host, you need to utilize another source like reclaim hosting, github pages, or netlify. I personally chose Github pages, but they are all great options.
+## Hosting a site
+Because docsify doesn't host, you need to utilize another source like reclaim hosting, github pages, or netlify. I personally chose Github pages, but they are all great options. Docsify offers [directions](https://docsify.js.org/#/deploy) on deploying to a large variety of hosts. Again, its very straight forward and helpful.

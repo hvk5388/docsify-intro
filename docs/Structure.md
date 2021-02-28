@@ -1,10 +1,11 @@
-Structure
-How does 11ty Structure Data?
-11ty has zero boilerplate client-side JavaScript. Basically that means that it doesnt use a JavaScript framework. The build routine process takes the files and compiles them into just HTML/CSS. Because of this you have a lot more flexibility in what you use.
+# Structure
+## How does Docsify Structure Data?
+Docsify does not generate static html files. Basically that means that it doesn't change your markdown into html, but it loads, parses, and displays the markdown as is. The build routine process takes the files, but does not compile them into just HTML/CSS. Because of this you don't have to worry about any sort of translation mistakes. Here are all of the files I have in order to make this whole site run. 
 
-It runs files purely based on their location in the file system. The file system is used to create this pattern or hierarchy of content. In this site there is am index.html that uses its folder structure to create a menu structure.
+![Docsify Files](docsifyFiles.JPG)
 
-11ty is zero-config which means that it works with your projects existing directory structure. This gives flexible configuration options. It just uses what you specify in your template formats configuration. The data cascade layer uses independent template engines. You can be more flexible in what youre using and not required to work only with 11ty, but with any open source you want. Your data can be used on a template from anywhere.
+To create a page all docsify requires in a new markdown file. You can then link to it with thte simple sidebar function. Using _sidebar.md creates a menu in order to display all the data. All you have to do is input a list of all the pages you want and link them to the markdown file. In these 8 simple lines of code I can create an easily accessible site. 
 
-Flexibilty
-This seems to be 11ty's favorite word. They don't want users to be tied to a specific CMS for everything they do. This is why the embrace so 
+![Sidebar](sidebar.JPG)
+
+<!-- How this system structures data. Explain how it manages a hierarchy of content, screenshots and examples of the relation between the website and file system are required. This is the key section for convincing the team this is secure and leverages their existing skill sets (HTML / CSS) -->
